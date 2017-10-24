@@ -1,0 +1,45 @@
+body{
+    background-color: rgba(255, 255, 255, 1);
+    color:rgba(0,0,0,.8);
+    background-attachment:fixed;
+    font-family:sans-serif;
+    background-size: 100% 100%;
+    margin:0;
+    padding:0;
+}
+
+section{
+    margin:0 auto;
+    padding:0;
+}
+
+p{
+    margin:0;
+
+}
+
+h3{
+    font-weight:bold;
+    font-variant:small-caps;
+    font-size:32px;
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, .4);
+}
+
+nav{
+    font-size: 12pt;
+    font-variant: small-caps;
+    font-weight: bold;
+    margin-left:10px;
+
+}
+
+nav a{
+    color:rgba(0, 0, 0, 0.7);
+    text-decoration: none;
+}
+
+.mainMenu{
+    color:rgba(0, 0, 0, 0.7);
+    font-size:32px;
+
+}
